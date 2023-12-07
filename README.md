@@ -15,8 +15,13 @@ Colab에서 구동
 
 
 
-3. movie_len은 main과 define_m으로만 나눠서 돌리기(데이터 셋 open 경로는 custom)
+2. movie_len은 main과 define_m으로만 나눠서 돌리기(데이터 셋 open 경로는 custom)
 
+
+
+<참고자료>
+https://github.com/shenweichen/DeepCTR
+https://github.com/delojmkt/deepfm
 ---------------------------------------------------------------------------
 
 
