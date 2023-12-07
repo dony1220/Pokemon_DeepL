@@ -1,7 +1,7 @@
 # dl
 ## 1204 - 1208 딥러닝 실습
 
-## 라이브러리
+
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="left">
