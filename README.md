@@ -16,6 +16,8 @@
 
 2. movie_len은 main과 define_m으로만 나눠서 돌리기(데이터 셋 open 경로는 custom)
 
+   ![image](https://github.com/dony1220/dl/assets/96913965/4619e3b5-0b01-4642-bd94-d8b50c621f7d)
+
    영화 관람 predict
 ---------------------------------------------------------------------------
 
