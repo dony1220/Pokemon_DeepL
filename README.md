@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/Tensorflow-1572B6?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
 
 
-
-Colab에서 구동
 1. 포켓몬 FeatureExtractor, main, ImageProcessing(이미지 open 경로, path는 custom)
 
    유사 이미지 분류를 위한 코드를 작성
