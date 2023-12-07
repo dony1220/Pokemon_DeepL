@@ -2,7 +2,7 @@
 ## 1204 - 1208 딥러닝 실습
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Tensorflow-1572B6?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
 
