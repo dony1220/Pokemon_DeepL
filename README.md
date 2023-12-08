@@ -10,11 +10,13 @@
 
 
 1. 포켓몬 FeatureExtractor, main, ImageProcessing(이미지 open 경로, path는 custom)
+   
+   ![image](https://github.com/dony1220/dl/assets/96913965/a4cc58e4-9cc1-4320-b0c6-1d9123cd3bcd)
 
    유사 이미지 분류를 위한 코드를 작성
 
 
-2. movie_len은 main과 define_m으로만 나눠서 돌리기(데이터 셋 open 경로는 custom)
+3. movie_len은 main과 define_m으로만 나눠서 돌리기(데이터 셋 open 경로는 custom)
 
    ![image](https://github.com/dony1220/dl/assets/96913965/4619e3b5-0b01-4642-bd94-d8b50c621f7d)
 
