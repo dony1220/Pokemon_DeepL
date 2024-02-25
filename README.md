@@ -1,5 +1,5 @@
 # Deep Learning
-## 1204 - 1208 딥러닝 실습
+## 1204 - 1208 딥러닝 프로젝트
 
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
